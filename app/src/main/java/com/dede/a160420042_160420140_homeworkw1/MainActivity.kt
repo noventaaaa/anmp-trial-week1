@@ -14,3 +14,4 @@ class MainActivity : AppCompatActivity() {
         var members = intent.getStringExtra(LoginActivity.USER_NAME).toString()
     }
 }
+
